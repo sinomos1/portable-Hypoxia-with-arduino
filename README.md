@@ -1,4 +1,4 @@
-# Hypoxia-project
+# Arduino based- portable Hypoxia box
 -----------------
 - Oxygen Measurements Using Groove oxygen sensors and Arduino DUO
 -Relay setup for switching the actuator speed according to setpoint 
